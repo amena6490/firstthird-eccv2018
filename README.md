@@ -2,6 +2,8 @@
 
 Created by Mingze Xu at Indiana University, Bloomington, IN
 
+***Note:*** IU ShareView dataset and pretrained models are available at http://vision.soic.indiana.edu/firstthird-eccv2018/
+
 ### Environment
 
 The code is developed with CUDA 8.0, ***Python 2.7***, ***PyTorch 0.3***
